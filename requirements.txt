@@ -1,0 +1,6 @@
+streamlit
+wordcloud
+pillow
+numpy
+matplotlib
+pyinstaller
